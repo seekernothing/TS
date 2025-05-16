@@ -3,29 +3,29 @@
 // Annotations are used to specify the data types of the variable
 
 
-// //String//
+//String//
 
 
-// let myName: string = "abhishek";
-// console.log(myName)
+let myName: string = "abhishek";
+console.log(myName)
 
 
-// let myName: string = "abhishek";
-// myName= "Virat kohli"
-// console.log(myName);
+let myName: string = "abhishek";
+myName= "Virat kohli"
+console.log(myName);
 
 
-// //Numbers//
+//Numbers//
 
-// let favNumber:number = 8
-// console.log(favNumber);
+let favNumber:number = 8
+console.log(favNumber);
 
 
-// let favNumber: number = 8;
-// favNumber=9
-// console.log(favNumber);
+let favNumber: number = 8;
+favNumber=9
+console.log(favNumber);
 
-// //Boolean//
+//Boolean//
 
-// let isTsHard:boolean=false
-// console.log(isTsHard)
+let isTsHard:boolean=false
+console.log(isTsHard)
